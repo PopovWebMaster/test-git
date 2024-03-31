@@ -1,2 +1,2 @@
 text my text
-hello my friend
+hi my friend
